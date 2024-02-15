@@ -148,6 +148,7 @@ resources:
   #- argocd/instances/oadp-instance.yaml
   #- argocd/instances/baas-instance.yaml
   - argocd/instances/ibm-connect-direct-setup.yaml
+  - argocd/instances/ibm-connect-direct.yaml
 
 patches:
   - target:
